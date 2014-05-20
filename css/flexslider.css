@@ -1,0 +1,62 @@
+ 
+/* Browser Resets */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.slides,
+.flex-control-nav,
+.flex-direction-nav {margin: 0; padding: 0; list-style: none;} 
+
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider {margin: 0 0 21px; position: relative; height: 412px;}
+.flex-viewport {}
+.loading .flex-viewport {max-height: 300px;}
+.flexslider .slides {zoom: 1;}
+
+/* Direction Nav */
+.flex-direction-nav a {width: 30px; height: 30px; margin: 0px 0 0; display: block;  position: absolute; top: 50%; cursor: pointer; text-indent: -9999px;}
+.flex-direction-nav .flex-next {background-position: 100% 0; right: ; }
+.flex-direction-nav .flex-prev {left: ;}
+.flexslider:hover .flex-next {right: 5px;}
+.flexslider:hover .flex-prev {left: 5px;}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {}
+.flex-direction-nav .disabled {cursor: default;}
+
+/* Control Nav */
+.flex-control-nav {
+	width: 1000px;
+	left: 50%;
+	margin-left: -500px; 
+	position: absolute; 
+	bottom: 18px; 
+	text-align: right;
+	padding-right: 40px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.flex-control-nav li {margin: 0 3px; display: inline-block; zoom: 1; *display: inline;}
+.flex-control-paging li a {
+	width: 14px; 
+	height: 14px;
+	-webkit-border-radius: 100%;
+	 -moz-border-radius: 100%;
+	 border-radius: 100%; 
+	display: block;
+	border: 2px solid #2db4ce;
+	background-color: #2db4ce;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	text-indent: 9999px;}
+.flex-control-paging li a:hover, .flex-control-paging li a.flex-active{background-color: transparent;}
+
+.flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
+.flex-control-thumbs li {width: 25%; float: left; margin: 0;}
+.flex-control-thumbs img {width: 100%; display: block; cursor: pointer;}
+.flex-control-thumbs img:hover {opacity: 1;}
+.flex-control-thumbs .active {opacity: 1; cursor: default;}
+}

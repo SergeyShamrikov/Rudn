@@ -1,0 +1,117 @@
+.df{display:flex;}
+.wid{width: 313px;}
+.mar10{margin-right: 10px;}
+.padt27{padding-top: 27px;}
+.mar{margin:9px 20px 10px 9px;}
+.overh{overflow: hidden;}
+.padb38{padding-bottom: 38px;}
+.develop_box{padding-left: 30px;}
+.title1{
+	font-size: 28px;
+	line-height: 35px;
+	color:#536471;
+	padding-left: 11px;
+	padding-bottom: 21px;
+}
+.patr{
+	display: inline-block;
+	margin-top: 3px;
+	margin-left: 13px;
+	font-size: 15px;
+	line-height: 35px;
+	color: #aaaaaa;
+	border-left: 1px solid #cacaca;
+	padding-left: 11px;
+}
+.patr:hover{text-decoration: none;}
+
+.bggr{
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffffff 0%, #e6e6e6 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e6e6e6)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#e6e6e6 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 0%,#e6e6e6 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffffff 0%,#e6e6e6 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ffffff 0%,#e6e6e6 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e6e6e6',GradientType=0 ); /* IE6-9 */
+
+}
+
+.patrons_box{
+	padding: 0 15px 38px 20px;
+}
+
+.people_item{
+	border: 1px solid #e8e8e8;
+	border-radius: 6px;
+}
+.bordr{
+	border: 2px solid #b4bbc0;
+	border-radius: 100%;
+}
+.img_name{
+	color: #536471;
+	font-family: 'museo_sans_cyrl900';
+	font-size:11px;
+}
+.img_position{
+	font-size: 11px;
+	color: #8a8a8a;
+}
+.developments{
+	overflow: hidden;
+	width: 606px;
+	margin-right: 44px;
+	padding-top: 10px;
+} 
+.date{
+	overflow: hidden;
+	background-color: #2db4ce;
+	width: 59px;
+	height: 59px;
+	text-align: center;
+	margin-right: 30px;
+	display: block;
+	margin-top: 11px;
+}
+.date_number{
+	font-size: 33px;
+	line-height: 33px;
+	color:#ffffff; 
+	padding-top: 6px;
+}
+.date_months{
+	font-size: 20px;
+	line-height: 20px;
+	color:#ffffff; 
+	margin-top: -7px;
+}
+.bb17>h4{
+	color: #2f2f2f;
+	font-family: 'museo_sans_cyrl900';
+	font-size: 15px; 
+	padding-bottom: 21px;
+	float: left;
+}
+
+.bb17 p{
+	color:#787878;
+	font-size: 13px;
+	float: left;
+	padding-bottom: 17px;
+	border-bottom: 1px solid #e7e7e7;
+}
+.born{border:none !important;}
+.pt41{padding-top: 38px;}
+.endowment_img{margin-top: -35px;}
+
+/*===================================Dummy====================================*/
+.padb14{padding-bottom: 14px;}
+.about_fond_box .main .title1 {
+	padding-left: 52px;
+}
+.list_bottom_item{
+	float: left;
+	margin: 30px 0 0 0px;
+}
+.social_icon_menu_item2 {opacity: 0;}
