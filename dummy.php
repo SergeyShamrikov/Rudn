@@ -29,42 +29,38 @@
 <body class="dummy">
 <!--==============================header=================================-->
 <header>
-  <div class="main">
-    <ul class="header_list wrapper">
-      <li class="header_list_item">
-        <h1 class="logo">
-          <a href="index.html"></a>
-        </h1>
-      </li>
-      <li class="header_list_item">
-        <p class="header_text1">Наиболее прозрачный инструмент<br>
-          благотворительности.
-        </p>
-      </li>
-      <li class="header_list_item">
-        <form class="search" action="#">
-          <input type="text" name="search" value="Что будем искать?" onblur="if(this.value=='') this.value='Что будем искать?'" onfocus="if(this.value =='Что будем искать?' ) this.value=''">
-          <button></button>
-        </form>
-      </li>  
-      <li class="list_bottom_item">
-        <ul class="social_icon_menu2">
-          <li class="f_left">
-            <a href="#"><img src="images/img_you_tube2.png" alt=""></a>
-          </li>
-          <li class="f_left">
-            <a href="#"><img src="images/img_facebook2.png" alt=""></a>
-          </li>
-          <li class="f_left">
-            <a href="#"><img src="images/img_vk2.png" alt=""></a>
-          </li>
-          <li class="f_left">
-            <a href="#"><img src="images/img_twitter2.png" alt=""></a>
-          </li>
-        </ul>
-      </li>  
-    </ul>  
-  </div> 
+ <div class="header_bottom main wrapper">
+        <div class="logotip f_left">
+          <h1 class="logo">
+            <a href="index.html"></a>
+          </h1>
+        </div>
+        <div class="header_text f_left">
+          <p class="header_text1">Наиболее прозрачный инструмент<br>
+          благотворительности.</p>
+        </div>
+        <div class="header_search f_left">
+          <form class="search" action="#">
+          <input type="text" name="search" value="Что будем искать?" onblur="if(this.value=='') this.value='Что будем искать?'" onfocus="if(this.value =='Что будем искать?' ) this.value=''"><button></button>
+          </form>
+        </div>
+        <div class="header_text_right f_left">
+          <ul class="social_icon4 wrapper">
+            <li class="social_icon4-item f_left">
+              <a href="#"><img src="images/img_you_tube2.png" alt=""></a>
+            </li>
+            <li class="social_icon4-item f_left">
+              <a href="#"><img src="images/img_facebook2.png" alt=""></a>
+            </li>
+            <li class="social_icon4-item f_left">
+              <a href="#"><img src="images/img_vk2.png" alt=""></a>
+            </li>
+            <li class="social_icon4-item f_left">
+              <a href="#"><img src="images/img_twitter2.png" alt=""></a>
+            </li>
+          </ul>
+        </div>  
+      </div>
   <nav>
     <div class="main">
       <div class="f_left padt10">
@@ -78,7 +74,7 @@
   </nav>
 </header>
 <!--==============================content================================-->
-    <li class="slides_it p_rel 4 padb14 clone" style="width: 1349px; float: left; display: block;">
+    <div class="dammy_img-main p_rel 4 padb14">
       <img class="slides_it_img" src="images/flexslider_img22.png" alt="">
       <div class="p_abs flexslider_box">
         <div class="main clearfix">
@@ -92,7 +88,7 @@
           </div>
         </div>
       </div>
-    </li>
+    </div>
     <div id="content">
       <div class="main">
         <?php include("components/about_fond.php") ?>

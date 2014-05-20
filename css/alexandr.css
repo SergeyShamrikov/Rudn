@@ -9,8 +9,8 @@
 	font-size: 28px;
 	line-height: 35px;
 	color:#536471;
-	padding-left: 14px;
-	padding-bottom: 21px;
+	padding-left: 20px;
+	padding-bottom: 7px;
 }
 .patr{
 	display: inline-block;
@@ -95,7 +95,8 @@
 .endowment_img{margin-top: -29px;}
 .patrons_box{padding:0 15px 38px 20px;}
 /*===================================Dummy====================================*/
-.padb14{padding-bottom: 14px;}
+.padb14{margin-bottom: 11px;}
+.dammy_img-main{height: 320px;overflow: hidden;}
 .about_fond_box .main .title1 {
 	padding-left: 52px;
 }
@@ -114,12 +115,26 @@
 .padt10{padding-top: 10px;}
 .details {padding: 7px 12px 3px 17px;}
 .details:after {margin:0 0 0 10px;}
-.flax_banner_text {margin-bottom:0;}
+.flax_banner_text {margin-bottom:8px;}
 .flax_banner figure {
 	text-align: center;
 	padding-bottom: 20px;
+	padding-left: 0;
+	padding-right: 32px;
 }
 .flax_banner {
-width: 359px;
-padding: 26px 43px;
+	width: 359px;
+	padding: 26px 47px 0 43px;
 }
+.social_icon4-item{margin-left: 6px;}
+.social_icon4-item:first-child{margin-left: 81px;}
+.header_bottom {padding-bottom: 11px;}
+.dummy>header>nav{background: #3ab2cc;}
+.header_text1 {
+	padding-left: 40px;
+	margin-left: 18px !important;
+}
+.header_text, .header_search, .header_text_right {padding-top: 29px;}
+.search {box-shadow: none !important;}
+.search input {margin: 6px 0 0 13px !important;}
+.dummy footer{padding-top: 8px;}
