@@ -4,19 +4,18 @@
 .padt27{padding-top: 27px;}
 .mar{margin:9px 20px 10px 9px;}
 .overh{overflow: hidden;}
-.padb38{padding-bottom: 38px;}
-.develop_box{padding-left: 30px;}
+.develop_box{padding-left: 7px;}
 .title1{
 	font-size: 28px;
 	line-height: 35px;
 	color:#536471;
-	padding-left: 11px;
+	padding-left: 14px;
 	padding-bottom: 21px;
 }
 .patr{
 	display: inline-block;
 	margin-top: 3px;
-	margin-left: 13px;
+	margin-left: 9px;
 	font-size: 15px;
 	line-height: 35px;
 	color: #aaaaaa;
@@ -36,11 +35,6 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e6e6e6',GradientType=0 ); /* IE6-9 */
 
 }
-
-.patrons_box{
-	padding: 0 15px 38px 20px;
-}
-
 .people_item{
 	border: 1px solid #e8e8e8;
 	border-radius: 6px;
@@ -51,8 +45,7 @@
 }
 .img_name{
 	color: #536471;
-	font-family: 'museo_sans_cyrl900';
-	font-size:11px;
+	font:800 11px 'MuseoSansCyrl';
 }
 .img_position{
 	font-size: 11px;
@@ -62,7 +55,8 @@
 	overflow: hidden;
 	width: 606px;
 	margin-right: 44px;
-	padding-top: 10px;
+	margin-left: 3px;
+	padding-top: 19px;
 } 
 .date{
 	overflow: hidden;
@@ -71,40 +65,35 @@
 	height: 59px;
 	text-align: center;
 	margin-right: 30px;
-	display: block;
-	margin-top: 11px;
 }
 .date_number{
-	font-size: 33px;
-	line-height: 33px;
+	font: 33px/14px 'MuseoSansCyrl';
 	color:#ffffff; 
-	padding-top: 6px;
+	padding-top: 18px;
 }
 .date_months{
-	font-size: 20px;
-	line-height: 20px;
+	font:600 20px/14px'MuseoSansCyrl';
 	color:#ffffff; 
-	margin-top: -7px;
+	padding-top: 3px;
 }
 .bb17>h4{
 	color: #2f2f2f;
-	font-family: 'museo_sans_cyrl900';
-	font-size: 15px; 
+	font: 800 15px 'MuseoSansCyrl';
 	padding-bottom: 21px;
 	float: left;
 }
 
 .bb17 p{
 	color:#787878;
-	font-size: 13px;
+	font: 13px 'MuseoSansCyrl';
 	float: left;
 	padding-bottom: 17px;
 	border-bottom: 1px solid #e7e7e7;
 }
 .born{border:none !important;}
 .pt41{padding-top: 38px;}
-.endowment_img{margin-top: -35px;}
-
+.endowment_img{margin-top: -29px;}
+.patrons_box{padding:0 15px 38px 20px;}
 /*===================================Dummy====================================*/
 .padb14{padding-bottom: 14px;}
 .about_fond_box .main .title1 {
@@ -114,4 +103,23 @@
 	float: left;
 	margin: 30px 0 0 0px;
 }
-.social_icon_menu_item2 {opacity: 0;}
+.sf-menu{
+	color: #fff;
+	display: block;
+	padding: 5px 0 7px 0;
+	font-size: 23px;
+	
+}
+.screw{padding: 0 12px 0 189px;}
+.padt10{padding-top: 10px;}
+.details {padding: 7px 12px 3px 17px;}
+.details:after {margin:0 0 0 10px;}
+.flax_banner_text {margin-bottom:0;}
+.flax_banner figure {
+	text-align: center;
+	padding-bottom: 20px;
+}
+.flax_banner {
+width: 359px;
+padding: 26px 43px;
+}

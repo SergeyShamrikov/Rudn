@@ -49,16 +49,16 @@
       </li>  
       <li class="list_bottom_item">
         <ul class="social_icon_menu2">
-          <li class="social_icon_menu_item2">
+          <li class="f_left">
             <a href="#"><img src="images/img_you_tube2.png" alt=""></a>
           </li>
-          <li class="social_icon_menu_item2">
+          <li class="f_left">
             <a href="#"><img src="images/img_facebook2.png" alt=""></a>
           </li>
-          <li class="social_icon_menu_item2">
+          <li class="f_left">
             <a href="#"><img src="images/img_vk2.png" alt=""></a>
           </li>
-          <li class="social_icon_menu_item2">
+          <li class="f_left">
             <a href="#"><img src="images/img_twitter2.png" alt=""></a>
           </li>
         </ul>
@@ -67,40 +67,24 @@
   </div> 
   <nav>
     <div class="main">
-      <ul class="sf-menu">
-        <li class="sf-menu_item current"><a href="index-1.html">Главная </a></li>
-        <li class="sf-menu_item"><a href="index-2.html">О фонде <span class="arrow_menu"></span></a></li>
-        <li class="sf-menu_item"><a href="index-3.html">Меценаты <span class="arrow_menu"></span></a></li>
-        <li class="sf-menu_item"><a href="index-4.html">Сделать взнос</a></li>
-        <li class="sf-menu_item"><a href="index-5.html">Сотрудничество</a></li>
-        <li class="sf-menu_item"><a href="index-6.html">Контакты</a></li>
-     </ul>
-     <ul class="social_icon_menu">
-       <li class="social_icon_menu_item">
-        <a href="#"><img src="images/img_you_tube.png" alt=""></a>
-      </li>
-       <li class="social_icon_menu_item">
-        <a href="#"><img src="images/img_facebook.png" alt=""></a>
-      </li>
-       <li class="social_icon_menu_item">
-        <a href="#"><img src="images/img_vk.png" alt=""></a>
-      </li>
-       <li class="social_icon_menu_item">
-        <a href="#"><img src="images/img_twitter.png" alt=""></a>
-      </li>
-     </ul>
+      <div class="f_left padt10">
+        <img class="screw" src="images/screw_dummy.png" alt="">
+      </div>
+      <div class="sf-menu wrapper">
+        Сайт находится в разработке. Дата запуска 23 мая
+     </div>
     </div>   
     <div class="clear"></div>
   </nav>
 </header>
 <!--==============================content================================-->
     <li class="slides_it p_rel 4 padb14 clone" style="width: 1349px; float: left; display: block;">
-      <img class="slides_it_img" src="images/flexslider_img1.png" alt="">
+      <img class="slides_it_img" src="images/flexslider_img22.png" alt="">
       <div class="p_abs flexslider_box">
         <div class="main clearfix">
           <div class="f_right flax_banner">
             <figure>
-              <img src="images/logo_big.png" alt="">
+              <img src="images/logo_big2.png" alt="">
             </figure>
             <p class="flax_banner_text">Наиболее прозрачный инструмент благотворительности, при котором деньги жертвователей не расходуются, а постоянно работают на благо образования,</p>
             <a href="#" class="f_right details">Подробнее</a>
