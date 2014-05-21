@@ -149,7 +149,7 @@
 
 .make_donation_baner{
 	background:  url(../images/make_donation_img.jpg) 0 0 no-repeat;
-	margin: 19px 18px 25px;
+	margin: 19px 15px 25px 20px;
 	
 }
 .make_donation_baner a{text-align: right;}
@@ -253,3 +253,9 @@
 .header_text_right{padding-right: 24px;}
 .header_bottom{padding-bottom: 5px;}
 .footer_menu{padding: 8px 0 7px;}
+
+
+/*leadership*/
+.leadership_box{
+	margin:0 15px 0 20px;
+}
