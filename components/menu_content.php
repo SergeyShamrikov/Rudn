@@ -1,17 +1,3 @@
-<!-- <section class="menu_content_box">
-	<ul class="list1 clearfix">
-		<li class="list1_it f_left">
-			<a href="#" class="list1_lk">
-				<img src="images/list1_img1.png" alt="">
-				<div class="menu_content_title">
-					<span>Реквизиты фонда</span><a href="#"></a>
-				</div>
-			</a>
-		</li>
-	</ul>
-</section>
- -->
-
 <section class="menu_content_box clearfix">
 	<div class="menu_content_box_it1 f_left clearfix current">
 		<figure class="f_left menu_content_img"></figure>
