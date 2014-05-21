@@ -26,7 +26,7 @@
             <li class="sf-menu_item"><a href="index-3.html">Меценаты <span class="arrow_menu"></span></a></li>
             <li class="sf-menu_item"><a href="index-4.html">Сделать взнос</a></li>
             <li class="sf-menu_item"><a href="index-5.html">Сотрудничество</a></li>
-            <li class="sf-menu_item"><a href="index-6.html">Контакты</a></li>
+            <li class="sf-menu_item"><a href="contacts.php">Контакты</a></li>
          </ul>
          <ul class="social_icon_menu">
            <li class="social_icon_menu_item">

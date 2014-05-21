@@ -1,0 +1,131 @@
+.make_donation_baner{
+	background:  url(../images/make_donation_img.jpg) 0 0 no-repeat;
+	margin: 19px 15px 0 20px;
+}
+.make_donation_baner a{text-align: right;}
+.make_donation_baner_title{
+	background: url(../images/ban_title_bg.png) 0 0 repeat-x;
+	font-size: 40px;
+	line-height: 50px;
+	color: #fff;
+	z-index: 999;
+	padding: 13px 55px 12px 35px;
+}
+.make_donation_baner_title:before{
+	content: "";
+	display: block;
+	position: absolute;
+	width: 38px;
+	height: 75px;
+	left: -38px;
+	top: 0;
+	z-index: 999;
+	background: url(../images/ban_title_before.png) 0 0 no-repeat;
+}
+.make_donation_baner_title:after{
+	content: "";
+	display: inline-block;
+	width: 48px;
+	height: 49px;
+	margin-left: 43px;
+	background: url(../images/ban_title_after.png) 0 0 no-repeat;
+}
+/*make_donation_baner*/
+.contact_top{
+	padding-bottom: 10px;
+}
+.contact_left{
+	padding-left: 35px
+}
+.contact_title{
+	font-size: 16px;
+	color: #5d6d79;
+	margin-top: 10px;
+}
+.contact_title2{
+	font-size: 16px;
+	color: #5d6d79;
+	margin: 10px 0 0 225px;
+}
+.contact_list_item{
+	font-size: 14px;
+	color: #121212;
+	margin-top: 28px;
+}
+.contact_list_item:first-child{
+	margin: 20px 0 0 0;
+}
+.contact_list_item p{
+	line-height: 20px;
+}
+.contact_list_item a{
+	text-decoration: none;
+	color: #3b9db3;
+}
+.contact_list_item a:hover{
+	text-decoration: underline;
+}
+#map_canvas{
+	width: 494px;
+	height: 351px;
+	margin: 20px 0 25px 30px;
+}
+.contact_text_right{
+	border: 1px solid #acacac;
+	border-radius: 20px;
+	width: 220px;
+	padding: 12px 17px;
+	margin: 0 0 20px 28px;
+}
+.contact_right_text2{
+	font-size: 10px;
+  	background:url(../images/img_phone.png) 0 60% no-repeat;
+  	padding-left: 33px;
+  	margin: 0;
+}
+.contact_right_text2 span{
+	color: #3ab8d1;
+  	font-size: 23px;
+}
+/*bottom*/
+.contact_bottom{
+	width: 941px;
+	margin: 0 auto;
+	border-top: 1px solid #d7d7d7;
+}
+.contact_bottom_title{
+	font-size: 14px;
+	color: #3b9db3;
+	font-weight: 500;
+	margin: 10px 0 10px 0;
+}
+.contact_bottom_text{
+	font-size: 14px;
+	color: #737373;
+	margin-top: 26px;
+	line-height: 22px;
+}
+.contact_bottom_left{
+	margin-right: 100px;
+}
+.contact_bottom_right{
+	padding-bottom: 121px;
+}
+.contact_bottom_left_title{
+	font-size: 14px;
+	color: #3b9db3;
+	font-weight: 500;
+	margin: 6px 0 10px 0;
+}
+.contact_bottom_left_title2{
+	margin: 25px 0 10px 0;
+	font-size: 14px;
+	font-weight: 500;
+	color: #3b9db3;
+}
+.contact_bottom_left_title3{
+	margin: 1px 0 10px 0;
+	font-size: 14px;
+	font-weight: 500;
+	color: #3b9db3;
+}

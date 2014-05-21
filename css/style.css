@@ -5,6 +5,7 @@
 @import "../css/sergey.css";
 @import "../css/alexandr.css";
 @import "../css/sveta.css";
+@import "../css/contacts.css";
 @import "../fonts/museo.css";
 article,aside,audio,canvas,command,datalist,details,embed,figcaption,figure,footer,header,hgroup,keygen,meter,nav,output,progress,section,source,video{display:block}mark,rp,rt,ruby,summary,time{display:inline}
 /* Global properties ======================================================== */
@@ -394,10 +395,7 @@ a:hover{
 
 
 /*================================>> Contacts Info <<========================================*/
-#map_canvas {
-   width:411px;
-   height:237px;
-}
+
 .adress{}
 .adress span{
   display:inline-block;
