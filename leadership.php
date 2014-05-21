@@ -39,17 +39,17 @@
       <h2 class="title2 museo_font900">Руководство</h2>
       <div class="clearfix leadership_list">
         <div class="leadership_it">
-          <figure class="al_center">
-            <img src="" alt="">
+          <figure class="al_center leadership_img_box">
+            <img src="images/leadership_img1.png" alt="">
             <figcaption>
-              <h4 class="title3 museo_font900 mb3">Клишас Андрей Александрович</h4>
+              <h4 class="title3 museo_font900">Клишас Андрей Александрович</h4>
               <span class="employee_text_type1 d_block">Вице-президент, председатель Совета директоров ЗАО «Холдинговая компания ИНТЕРРОС»</span>
             </figcaption>
           </figure>
-          <p class="">
+          <p class="leadership_text">
             Окончил юридический факультет: в 1998 г. - бакалавр, в 2000 г. магистр по специальности «юриспруденция» (научный руководитель - профессор Еремян В.В.). В 2000-2002 гг. обучался в аспирантуре кафедры конституционного, административного и финансового права.
           </p>
-          <a href="about_employee.php" class="f_right details"></a>
+          <a href="about_employee.php" class="f_right details">Подробнее</a>
         </div>
       </div>
     </section>
