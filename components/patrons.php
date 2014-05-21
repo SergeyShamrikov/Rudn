@@ -2,45 +2,51 @@
           <h2 class="title1">Меценаты<a class="patr" href="#">Все меценаты</a></h2>
           <div class="people wrapper">
             <ul class="f_left df wrapper">
-              <li class=" people_item wrapper bggr f_left mar10 wid">
-                <div class="people_item-img f_left">
-                  <img class="overh bordr mar f_left" src="images/vicepres.png" alt="">
-                </div>
-                <div class="padt27 wrapper">
-                  <span class="img_name">
-                    Клишас Андрей Александрович
-                  </span>
-                  <span class="img_position f_left">
-                    Вице-президент, председатель<br> Совета директоров ЗАО <br>«Холдинговая компания <br>ИНТЕРРОС».
-                  </span>
-                </div>
+              <li class=" people_item bggr f_left mar10 wid">
+                <a href="about_employee.php" class="d_block wrapper">
+                  <div class="people_item-img f_left">
+                    <img class="overh bordr mar f_left" src="images/vicepres.png" alt="">
+                  </div>
+                  <div class="padt27 wrapper">
+                    <span class="img_name">
+                      Клишас Андрей Александрович
+                    </span>
+                    <span class="img_position f_left">
+                      Вице-президент, председатель<br> Совета директоров ЗАО <br>«Холдинговая компания <br>ИНТЕРРОС».
+                    </span>
+                  </div>
+                </a>
               </li>
-              <li class="people_item wrapper bggr f_left mar10 wid">
-                <div class="people_item-img f_left">
-                  <img class="overh bordr mar f_left" src="images/rector.png" alt="">
-                </div>
-                <div class="padt27 wrapper">
-                  <span class="img_name">
-                    Филиппов Владимир Михайлович
-                  </span>
-                  <span class="img_position f_left">
-                    Ректор РУДН.<br> 
-                    Доктор физико-математических <br>наук, профессор.
-                  </span>
-                </div>
+              <li class="people_item bggr f_left mar10 wid">
+                <a href="about_employee.php" class="d_block wrapper">
+                  <div class="people_item-img f_left">
+                    <img class="overh bordr mar f_left" src="images/rector.png" alt="">
+                  </div>
+                  <div class="padt27 wrapper">
+                    <span class="img_name">
+                      Филиппов Владимир Михайлович
+                    </span>
+                    <span class="img_position f_left">
+                      Ректор РУДН.<br> 
+                      Доктор физико-математических <br>наук, профессор.
+                    </span>
+                  </div>
+                </a>
               </li>
-              <li class="people_item wrapper bggr f_left wid">
-                <div class="people_item-img f_left">
-                  <img class="overh bordr mar f_left" src="images/provost.png" alt="">
-                </div>
-                <div class="padt27 wrapper">
-                  <span class="img_name">
-                    Щесняк Евгений Леонидович
-                  </span>
-                  <span class="img_position f_left">
-                    Первый проректор – проректор <br>по экономической деятельности. 
-                  </span>
-                </div>
+              <li class="people_item bggr f_left wid">
+                <a href="about_employee.php" class="d_block wrapper">
+                  <div class="people_item-img f_left">
+                    <img class="overh bordr mar f_left" src="images/provost.png" alt="">
+                  </div>
+                  <div class="padt27 wrapper">
+                    <span class="img_name">
+                      Щесняк Евгений Леонидович
+                    </span>
+                    <span class="img_position f_left">
+                      Первый проректор – проректор <br>по экономической деятельности. 
+                    </span>
+                  </div>
+                </a>
               </li>
             </ul>
           </div>

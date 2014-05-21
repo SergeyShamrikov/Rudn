@@ -67,6 +67,11 @@
 	line-height: 27px;
 	color: #41a9bf;
 	text-transform: uppercase;
+	text-decoration: underline;
+}
+.report_item:hover{
+	text-decoration: none;
+	color: #08778e;
 }
 .report_text{
 	font-size: 14px;
@@ -74,5 +79,9 @@
 	color: #808080;
 }
 .report_list{
-	padding: 20px 0;
+	padding: 20px 0 20px 30px;
+}
+.report_list li{
+	padding-left: 20px;
+	background: url(../images/reports_icon.png) 0 center no-repeat;
 }

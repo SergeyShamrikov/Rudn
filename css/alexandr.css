@@ -22,7 +22,7 @@
 	border-left: 1px solid #cacaca;
 	padding-left: 11px;
 }
-.patr:hover{text-decoration: none;}
+.patr:hover{text-decoration: underline;}
 
 .bggr{
 	background: #ffffff; /* Old browsers */
