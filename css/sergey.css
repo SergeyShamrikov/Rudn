@@ -149,7 +149,7 @@
 
 .make_donation_baner{
 	background:  url(../images/make_donation_img.jpg) 0 0 no-repeat;
-	margin: 0 18px;
+	margin: 19px 18px 25px;
 	
 }
 .make_donation_baner a{text-align: right;}
@@ -182,7 +182,7 @@
 }
 /*menu content*/
 
-.menu_content_box{padding-bottom: 25px;}
+.menu_content_box{padding-bottom: 25px;margin: 0 17px;}
 
 .current[class*="menu_content_box_it"]{
 	border: 1px solid #9ed3df;
