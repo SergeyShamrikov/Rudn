@@ -31,8 +31,8 @@
     <?php include("blocks/header.php") ?>
 <!--==============================content================================-->
     <div id="content">
-      <?php include("components/make_donation.php") ?>
       <div class="main">
+       <?php include("components/make_donation.php") ?>
        <?php include("components/menu_content.php") ?>
        <h4 class="title2 museo_font900">Отчетность года</h4>
        <ul class="report_list">
