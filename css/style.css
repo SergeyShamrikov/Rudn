@@ -195,7 +195,7 @@ background: linear-gradient(to bottom,  #54798e 0%,#4e7388 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54798e', endColorstr='#4e7388',GradientType=0 ); /* IE6-9 */
 
 }
-.arrow_menu{
+/*.arrow_menu{
   display: block;
   width: 5px;
   height: 3px;
@@ -203,7 +203,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54798e', end
   margin-top: -10px;
   padding-left: 7px; 
   background:url(../images/img_arrow_menu.png) 100% 0 no-repeat;
-}
+}*/
 .social_icon_menu{
   float: right;
   margin-right: 13px;
@@ -215,7 +215,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54798e', end
 .social_icon_menu_item:first-child{
   margin-left: 0;
 }
-.social_icon_menu_item:hover img{
+.social_icon_menu_item:hover a{
   opacity: 0.5;
 }
 /*=====================> Content ========================*/
@@ -460,12 +460,15 @@ footer {
 .social_icon_menu_item2{
   float: left;
   margin-left: 10px;
-  opacity: 0.5; 
+ 
+}
+.social_icon_menu_item2 a{
+  opacity: 0.5;
 }
 .social_icon_menu_item2:first-child{
   margin-left: 0; 
 }
-.social_icon_menu_item2:hover{
+.social_icon_menu_item2 a:hover{
   opacity: 1.0;
 }
 .footer_text{
