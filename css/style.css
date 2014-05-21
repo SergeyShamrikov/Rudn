@@ -225,11 +225,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54798e', end
 /*=====================> Paragraphs ========================*/
 
 p {margin-bottom:18px}
-.p2{ margin-bottom:0;}
-.p3{ margin-bottom:0;}
-.p4{ margin-bottom:0;}
-.p5{ margin-bottom:0;}
-.p6{ margin-bottom:0;}
+.p1{margin-bottom: }
+.p2{ margin-bottom}
+.p3{ margin-bottom:}
+.p4{ margin-bottom:}
+.p5{ margin-bottom:}
+.p6{ margin-bottom:}
 
 
 /*=====================> Lists ========================*/

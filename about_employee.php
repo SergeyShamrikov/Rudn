@@ -33,21 +33,23 @@
     <div id="content">
       <?php include("components/make_donation.php") ?>
       <div class="main">
-        <?php include("components/menu_content.php") ?>
+       <?php include("components/menu_content.php") ?>
         <h4 class="title2 museo_font900 employee_title1">Руководство</h4> 
       <div class="wrapper">
         <div class="f_left employee_left">
-          <div class="employee_left_inner">
-            <figure class="al_center">
-              <img src="images/rector_type.png" alt="picture">
+          <div class="employee_left_inner al_center">
+            <figure class="al_center employee_description">
+              <img src="images/rector_type.png" alt="picture" class="employee_img_foto mb2">
               <figcaption>
-                <h4 class="title3 museo_font900">Филиппов Владимир Михайлович</h4>
-                <span class="employee_text_type1">Ректор РУДН. Доктор физико-математических наук, профессор.</span>
-                <span class="employee_text_type2">Министр образования РФ с 1998 по 2004 год. Академик Российской академии образования.</span>
-                <span class="employee_text_type2">Выпускник факультета физико-математических и естественных наук 1973 года.</span>
-                <a href="#javascript:;" class="d_block"> &lt; Вернуться</a>
-              </figcaption>
+                <h4 class="title3 museo_font900 mb3">Филиппов Владимир Михайлович</h4>
+               </figcaption>
             </figure>
+            <span class="employee_text_type1 d_block mb4">Ректор РУДН. Доктор<br> физико-математических наук, профессор.</span>
+            <span class="employee_text_type2 d_block mb5">Министр образования РФ с 1998 по 2004 год. Академик Российской академии образования.</span>
+            <span class="employee_text_type2 d_block mb6">Выпускник факультета <br> физико-математических и естественных наук 1973 года.</span>
+            <a href="#javascript:;" class="d_in-block details">Вернуться</a>
+             
+            
           </div>
          
         </div>
@@ -66,7 +68,7 @@
           <p>1986г. – защита докторской диссертации в Математическом институте им. В.А. Стеклова АН СССР по специальности 01.01.01 – «математический анализ».</p>
           <p>1987г. - присвоено ученое звание «профессор по кафедре математического анализа».</p>
           <p>Февраль 1987 – декабрь 1989гг. – секретарь партийного комитета Университета дружбы народов.</p>
-          <p> Декабрь 1989 – июнь 1993 гг. – декан факультета физико-математических и естественных наук РУДН.</p>
+          <p class="m_bot_zero"> Декабрь 1989 – июнь 1993 гг. – декан факультета физико-математических и естественных наук РУДН.</p>
         </div>
       </div>
 
