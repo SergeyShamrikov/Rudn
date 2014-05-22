@@ -146,7 +146,7 @@
 .social_icon4-item:first-child{margin-left: 81px;}
 .header_bottom {padding-bottom: 11px;}
 .dummy>header>nav{background: #3ab2cc;}
-.header_text1 {
+.dummy .header_text1 {
 	padding-left: 40px;
 	margin-left: 18px !important;
 }
@@ -228,3 +228,4 @@ padding-top: 75px;
 }
 .scroll-pane{height: 500px;}
 .scrol_box{padding-right: 54px;padding-bottom: 50px;}
+.fontw{font-weight: 600;}
