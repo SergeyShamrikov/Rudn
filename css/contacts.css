@@ -85,7 +85,7 @@
 .contact_bottom_title{
 	font-size: 14px;
 	color: #3b9db3;
-	font-weight: 500;
+	/*font-weight: 500;*/
 	margin: 10px 0 10px 0;
 }
 .contact_bottom_text{
@@ -103,18 +103,18 @@
 .contact_bottom_left_title{
 	font-size: 14px;
 	color: #3b9db3;
-	font-weight: 500;
+	/*font-weight: 500;*/
 	margin: 6px 0 10px 0;
 }
 .contact_bottom_left_title2{
 	margin: 25px 0 10px 0;
 	font-size: 14px;
-	font-weight: 500;
+	/*font-weight: 500;*/
 	color: #3b9db3;
 }
 .contact_bottom_left_title3{
 	margin: 1px 0 10px 0;
 	font-size: 14px;
-	font-weight: 500;
+	/*font-weight: 500;*/
 	color: #3b9db3;
 }
