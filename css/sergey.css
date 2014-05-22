@@ -15,9 +15,9 @@
 .details{
 	display: block;
 	font-size: 14px;
-	line-height: 18px;
+	line-height: 15px;
 	color: #fff;
-	padding: 7px 12px 3px 16px;
+	padding: 7px 12px 7px 16px;
 	background-color: #38b8d1;
 	border: none;
 	outline: none;
@@ -246,20 +246,22 @@
 	}
 	.menu_content_box_it2 .menu_content_img{
 		background: url(../images/list1_img2.png) center center no-repeat;
-		width: 40%;
+		width: 39%;
 	}
 	.menu_content_box_it3 .menu_content_img{
 		background: url(../images/list1_img3.png) center center no-repeat;
-		width: 38.41269841269841%;
+		width: 37%;
 	}
 	.menu_content_img{
 		height: 100%;
 	}
 	.menu_content_title{
+		font-family: 'museo_sans_cyrl900';
 		font-size: 18px;
 		line-height: 20px;
 		color: #536471;
 		padding-top: 40px;
+		display: block;
 	}
 		.menu_content_title span{
 			font-size: 12px;
@@ -321,7 +323,7 @@
 }
 .leadership_cont{
 	padding: 55px 15px 37px;
-	margin: -15px;
+	margin:0 -15px -15px;
 	border: 1px solid #fff;
 	z-index: 0;
 }

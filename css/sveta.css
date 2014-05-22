@@ -52,7 +52,7 @@
 .mb5{ margin-bottom:13px;}
 .mb6{ margin-bottom:35px;}
 .employee_left .details{
-	padding: 5px 22px 5px 10px;
+	padding: 7px 22px 7px 10px;
 }
 .employee_left .details:before{
 	position: relative;
@@ -62,7 +62,6 @@
 	-o-transform: rotate(180deg);
 	-ms-transform: rotate(180deg);
 	transform: rotate(180deg);
-	margin-top: 3px;
 	
 }
 .employee_left .details:after{
