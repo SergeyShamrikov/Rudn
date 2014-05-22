@@ -34,6 +34,11 @@
 	font-size: 14px;
 	line-height: 16px;
 }
+.title6{
+	font-size: 14px;
+	line-height: 29px;
+	color: #41a9bf;
+}
 .employee_left_inner{
 	padding: 27px 10px;
 }
@@ -75,4 +80,18 @@
 }
 .report_list{
 	padding: 20px 0;
+}
+/*---------Banking_details-------------------*/
+.banking_box{
+	border-bottom: 1px solid #e4e4e4;
+	color: #8a8a8a;
+	font-size: 14px;
+	line-height: 29px;
+}
+.bankdetails_box{
+	width: 720px;
+
+}
+.banking_img{
+	width: 200px;
 }
