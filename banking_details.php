@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Datails_banking</title>
+    <title>Реквизиты</title>
     <meta name = "format-detection" content = "telephone=no" />
     <meta charset="utf-8">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">

@@ -13,7 +13,7 @@
        <?php include("components/make_donation.php") ?>
        <?php include("components/menu_content.php") ?>
        <section class="report_box">
-         <h4 class="title2 museo_font900">Отчетность года</h4>
+         <h4 class="title2 museo_font900 report_box_title">Отчетность года</h4>
          <ul class="report_list">
          <li><a href="#" class="report_item">отчетность о поступлениях и тратах фонда в 2014 году</a></li>
          <li><a href="#" class="report_item">отчетность о поступлениях и тратах фонда в 2013 году</a></li>

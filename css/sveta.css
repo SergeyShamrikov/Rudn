@@ -86,6 +86,9 @@
 .report_list{
 	padding: 20px 0;
 }
+.report_box_title{
+	margin-top:38px;
+}
 /*---------Banking_details-------------------*/
 .banking_box{
 	border-bottom: 1px solid #e4e4e4;

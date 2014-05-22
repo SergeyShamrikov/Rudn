@@ -1,16 +1,5 @@
-.make_donation_baner{
-	background:  url(../images/make_donation_img.jpg) 0 0 no-repeat;
-	margin: 19px 15px 0 20px;
-}
 .make_donation_baner a{text-align: right;}
-.make_donation_baner_title{
-	background: url(../images/ban_title_bg.png) 0 0 repeat-x;
-	font-size: 40px;
-	line-height: 50px;
-	color: #fff;
-	z-index: 999;
-	padding: 13px 55px 12px 35px;
-}
+
 .make_donation_baner_title:before{
 	content: "";
 	display: block;
