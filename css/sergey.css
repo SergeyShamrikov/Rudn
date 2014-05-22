@@ -182,7 +182,11 @@
 	background: url(../images/ban_title_after.png) 0 0 no-repeat;
 }
 /*menu content*/
-
+.menu_content_box_lk{
+	display: block;
+	overflow: hidden;
+	height: 100%;
+}
 .menu_content_box{padding-bottom: 25px;margin: 0 15px 0 20px;}
 
 .current[class*="menu_content_box_it"],[class*="menu_content_box_it"]:hover{
