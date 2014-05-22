@@ -151,16 +151,22 @@
 
 .make_donation_baner{
 	background:  url(../images/make_donation_img.jpg) 0 0 no-repeat;
-	margin: 19px 15px 25px 20px;
+	margin: 19px 15px 38px 20px;
 }
 .make_donation_baner a{text-align: right;}
 .make_donation_baner_title{
 	background: url(../images/ban_title_bg.png) 0 0 repeat-x;
 	font-size: 40px;
-	line-height: 50px;
+	line-height: 40px;
 	color: #fff;
 	z-index: 999;
-	padding: 13px 55px 12px 35px;
+	height: 75px;
+	width: 467px;
+	padding: 19px 55px 0px 43px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	text-align: left;
 }
 .make_donation_baner_title:before{
 	content: "";
@@ -175,6 +181,9 @@
 }
 .make_donation_baner_title:after{
 	content: "";
+	position: absolute;
+	top:6px;
+	right: 56px;
 	display: inline-block;
 	width: 48px;
 	height: 49px;
