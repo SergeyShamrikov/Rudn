@@ -87,6 +87,10 @@
 .report_list{
 	padding: 24px 0 32px 31px;
 }
+.report_list li{
+	padding-left: 20px;
+	background: url(../images/reports_icon.png) 0 center no-repeat;
+}
 .report_box_title{
 	margin-top:15px;
 }
@@ -104,8 +108,4 @@
 .banking_img{
 	width: 200px;
 	padding: 20px 0 20px 30px;
-}
-.report_list li{
-	padding-left: 20px;
-	background: url(../images/reports_icon.png) 0 center no-repeat;
 }
