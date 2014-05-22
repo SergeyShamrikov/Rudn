@@ -65,4 +65,10 @@ $(window).load(function() {
       navigation : true
  
   });
+
  });
+$(function(){
+          jQuery('.scroll-pane').jScrollPane({
+            resiz: true
+          });
+        });

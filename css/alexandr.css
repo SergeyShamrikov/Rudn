@@ -176,8 +176,55 @@
 }
 .mar-page{margin: -5px 12px 32px 23px;}
 .marb76{margin-bottom: 76px;}
-.about_fond-page .menu_content_box {
-padding-bottom: 22px;
-}
+.about_fond-page .menu_content_box {padding-bottom: 22px;}
 .about_fond-page footer {padding-top: 37px;}
 .margl12{margin-left: 12px;}
+/*=====================================partnership====================================*/
+.mb75{margin-bottom: 75px;}
+.mb22{margin-bottom: 22px;}
+.pt15{padding-top: 15px;}
+.partnership_main{
+	padding-left: 22px;
+	width: 940px;	
+}
+.partnership_main:after{
+	content: "";
+	display: block;
+	width: 882px;
+	height: 13px;
+	background: url("../images/partnership_after.png") no-repeat;
+}
+.partnership .contact_title {
+	font-size: 16px;
+	color: #5d6d79;
+	line-height: 22px;
+	margin: 10px 0 20px;
+}
+.partnership_text-item{
+	font-size: 14px;
+	color: #737373;
+	line-height: 18px;
+}
+.partnership_text2-head{
+	font-size: 14px;
+	line-height: 16px;
+	color: #737373;
+}
+.partnership_text2{margin-bottom: 75px;margin-top: 54px;}
+.partnership_text2-img{width: 179px;}
+.partnership_text2-text{padding-top: 3px;}
+.enumeration{
+	font-size: 14px;
+	color: #737373;
+	line-height: 20px;
+}
+.enumeration-item{
+	padding-top: 13px;
+	background: url("../images/enumeration-item1.png")0% 70% no-repeat; 
+	padding-left: 10px;
+}
+.partnership footer {
+padding-top: 75px;
+}
+.scroll-pane{height: 500px;}
+.scrol_box{padding-right: 54px;padding-bottom: 50px;}
