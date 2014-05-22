@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Руководство</title>
+    <title>Сделать взнос</title>
     <?php include("blocks/head.php") ?>
 </head>
 <body class="leadership_page">
