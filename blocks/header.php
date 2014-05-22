@@ -37,7 +37,7 @@
             </li>
             <li class="sf-menu_item"><a class="menu_link" href="index-3.html">Меценаты</a></li>
             <li class="sf-menu_item"><a class="menu_link" href="make_donation.php">Сделать взнос</a></li>
-            <li class="sf-menu_item"><a class="menu_link" href="index-5.html">Сотрудничество</a></li>
+            <li class="sf-menu_item"><a class="menu_link" href="partnership.php">Сотрудничество</a></li>
             <li class="sf-menu_item"><a class="menu_link" href="contacts.php">Контакты</a></li>
          </ul>
          <ul class="social_icon_menu">
