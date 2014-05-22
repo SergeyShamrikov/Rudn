@@ -135,7 +135,7 @@
 	.owl-buttons div:hover{
 		background-size:420%;
 	}
-.about_fond_box{padding: 0 30px;}
+.about_fond_box{padding: 0 30px;text-align: justify;}
 .text1{
 	text-indent: 35px;
 	font-size: 14px;

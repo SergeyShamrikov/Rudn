@@ -108,8 +108,8 @@
             </div>
             <div class="endowment_img f_right">
               <a style="display: block;" href="#">
-                <img src="images/endowment.jpg" alt="">
-                <span class="endowment_word">Сделать взнос</span>
+                <img src="images/endowment.png" alt="">
+                <!-- <span class="endowment_word">Сделать взнос</span> -->
               </a>
             </div>
           </div> 
