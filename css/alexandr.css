@@ -4,7 +4,7 @@
 .padt27{padding-top: 27px;}
 .mar{margin:9px 20px 10px 9px;}
 .overh{overflow: hidden;}
-.develop_box{padding-left: 7px;}
+.develop_box{padding-left: 27px;}
 .title1{
 	font-size: 28px;
 	line-height: 35px;
@@ -54,7 +54,7 @@
 .developments{
 	overflow: hidden;
 	width: 606px;
-	margin-right: 44px;
+	/*margin-right: 44px;*/
 	margin-left: 3px;
 	padding-top: 19px;
 } 
@@ -65,6 +65,7 @@
 	height: 59px;
 	text-align: center;
 	margin-right: 30px;
+	margin-top: 13px;
 }
 .date_number{
 	font: 33px/14px 'MuseoSansCyrl';
@@ -76,24 +77,33 @@
 	color:#ffffff; 
 	padding-top: 3px;
 }
-.bb17>h4{
+.bb17>h4 a{
 	color: #2f2f2f;
 	font: 800 15px 'MuseoSansCyrl';
-	padding-bottom: 21px;
 	float: left;
 }
+.bb17>h4 a:hover{color: #aaaaaa}
 
 .bb17 p{
 	color:#787878;
 	font: 13px 'MuseoSansCyrl';
 	float: left;
+	padding-top: 21px;
 	padding-bottom: 17px;
 	border-bottom: 1px solid #e7e7e7;
 }
 .born{border:none !important;}
 .pt41{padding-top: 38px;}
-.endowment_img{margin-top: -29px;}
+.endowment_img{margin-top: -83px;display: block;}
 .patrons_box{padding:0 15px 38px 20px;}
+.endowment_word{
+	font-size:33px;
+	color: #ffffff;
+	display: block;
+	margin: -85px 0 0 68px;
+	position: absolute;
+}
+.endowment_word:hover{color: #2f2f2f;}
 /*===================================Dummy====================================*/
 .padb14{margin-bottom: 11px;}
 .dammy_img-main{height: 320px;overflow: hidden;}
@@ -115,7 +125,7 @@
 .padt10{padding-top: 10px;}
 .details {padding: 7px 12px 3px 17px;}
 .details:after {margin:0 0 0 10px;}
-.flax_banner_text {margin-bottom:8px;}
+.dummy .flax_banner_text {margin-bottom:8px;}
 .flax_banner figure {
 	text-align: center;
 	padding-bottom: 20px;
