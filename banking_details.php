@@ -31,8 +31,9 @@
     <?php include("blocks/header.php") ?>
 <!--==============================content================================-->
     <div id="content">
-      <?php include("components/make_donation.php") ?>
       <div class="main">
+      <?php include("components/make_donation.php") ?>
+      
        <?php include("components/menu_content.php") ?>
        <h4 class="title2 museo_font900">Реквизиты</h4>
        <div class="banking_box wrapper">

@@ -28,7 +28,7 @@
                   <a href="#" class="sub_menu_link">Реквизиты фонда</a>
                 </li>
                 <li class="sub_menu_item">
-                  <a href="reposts.php" class="sub_menu_link">Отчетность фонда</a>
+                  <a href="reports.php" class="sub_menu_link">Отчетность фонда</a>
                 </li>
                 <li class="sub_menu_item">
                   <a href="leadership.php" class="sub_menu_link">Руководство фонда</a>
