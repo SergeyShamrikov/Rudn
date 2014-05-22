@@ -2,7 +2,7 @@
       <div class="header_bottom main wrapper">
         <div class="logotip f_left">
           <h1 class="logo">
-            <a href="index.html"></a>
+            <a href="index.php"></a>
           </h1>
         </div>
         <div class="header_text f_left">
@@ -21,12 +21,24 @@
       <nav>
         <div class="main clearfix">
           <ul class="sf-menu">
-            <li class="sf-menu_item current"><a href="index-1.html">Главная </a></li>
-            <li class="sf-menu_item"><a href="index-2.html">О фонде <span class="arrow_menu"></span></a></li>
-            <li class="sf-menu_item"><a href="index-3.html">Меценаты <span class="arrow_menu"></span></a></li>
-            <li class="sf-menu_item"><a href="index-4.html">Сделать взнос</a></li>
-            <li class="sf-menu_item"><a href="index-5.html">Сотрудничество</a></li>
-            <li class="sf-menu_item"><a href="index-6.html">Контакты</a></li>
+            <li class="sf-menu_item current"><a class="menu_link" href="index.php">Главная </a></li>
+            <li class="sf-menu_item"><a class="menu_link" href="about_fond-page.php">О фонде</a>
+              <ul class="sub_menu">
+                <li class="sub_menu_item">
+                  <a href="#" class="sub_menu_link">Реквизиты фонда</a>
+                </li>
+                <li class="sub_menu_item">
+                  <a href="reposts.php" class="sub_menu_link">Отчетность фонда</a>
+                </li>
+                <li class="sub_menu_item">
+                  <a href="leadership.php" class="sub_menu_link">Руководство фонда</a>
+                </li>
+              </ul>
+            </li>
+            <li class="sf-menu_item"><a class="menu_link" href="index-3.html">Меценаты</a></li>
+            <li class="sf-menu_item"><a class="menu_link" href="make_donation.php">Сделать взнос</a></li>
+            <li class="sf-menu_item"><a class="menu_link" href="index-5.html">Сотрудничество</a></li>
+            <li class="sf-menu_item"><a class="menu_link" href="contacts.php">Контакты</a></li>
          </ul>
          <ul class="social_icon_menu">
            <li class="social_icon_menu_item">

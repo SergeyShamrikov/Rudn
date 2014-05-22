@@ -22,7 +22,7 @@
 	border-left: 1px solid #cacaca;
 	padding-left: 11px;
 }
-.patr:hover{text-decoration: none;}
+.patr:hover{text-decoration: underline;}
 
 .bggr{
 	background: #ffffff; /* Old browsers */
@@ -138,3 +138,30 @@
 .search {box-shadow: none !important;}
 .search input {margin: 6px 0 0 13px !important;}
 .dummy footer{padding-top: 8px;}
+/*===================================about_fond-page====================================*/
+.fonds_page{margin: 0 29px 0 13px;}
+.title4{
+	font-size: 28px;
+	line-height: 35px;
+	color:#536471;
+	padding-left: 5px;
+	padding-bottom: 4px;
+}
+.page-item_text{
+	color: #989898;
+	font-size: 15px;
+	text-align: justify;
+	line-height: 19px;
+}
+.boxshadow{
+	-webkit-box-shadow: 0 0 12px #ebebeb;
+	-moz-box-shadow: 0 0 12px #ebebeb;
+	box-shadow: 0 0 12px #ebebeb;
+}
+.mar-page{margin: -5px 12px 32px 23px;}
+.marb76{margin-bottom: 76px;}
+.about_fond-page .menu_content_box {
+padding-bottom: 22px;
+}
+.about_fond-page footer {padding-top: 37px;}
+.margl12{margin-left: 12px;}
