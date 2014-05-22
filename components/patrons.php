@@ -106,8 +106,8 @@
                 </li>
               </ul>
             </div>
-            <div class="endowment_img f_left">
-              <a href="#">
+            <div class="endowment_img f_right">
+              <a style="display: block;" href="#">
                 <img src="images/endowment.jpg" alt="">
                 <span class="endowment_word">Сделать взнос</span>
               </a>

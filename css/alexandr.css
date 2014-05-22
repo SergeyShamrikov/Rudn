@@ -94,16 +94,22 @@
 }
 .born{border:none !important;}
 .pt41{padding-top: 38px;}
-.endowment_img{margin-top: -83px;display: block;}
+.endowment_img{
+	margin: -30px 29px 0 0;
+	position: relative;
+	display: block;
+	text-align: center;
+}
 .patrons_box{padding:0 15px 38px 20px;}
 .endowment_word{
 	font-size:33px;
 	color: #ffffff;
 	display: block;
-	margin: -85px 0 0 68px;
 	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 60px;
 }
-.endowment_word:hover{color: #2f2f2f;}
 /*===================================Dummy====================================*/
 .padb14{margin-bottom: 11px;}
 .dammy_img-main{height: 320px;overflow: hidden;}
@@ -123,8 +129,8 @@
 }
 .screw{padding: 0 12px 0 189px;}
 .padt10{padding-top: 10px;}
-.details {padding: 7px 12px 3px 17px;}
-.details:after {margin:0 0 0 10px;}
+.dummy .details {padding: 7px 12px 3px 17px;}
+.dummy .details:after {margin:0 0 0 10px;}
 .dummy .flax_banner_text {margin-bottom:8px;}
 .flax_banner figure {
 	text-align: center;
