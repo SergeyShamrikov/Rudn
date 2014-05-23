@@ -1,7 +1,7 @@
 <section class="patrons_box">
           <h2 class="title1">Меценаты<a class="patr" href="#">Все меценаты</a></h2>
           <div class="people wrapper">
-            <ul class="f_left df wrapper">
+            <ul class="f_left wrapper">
               <li class=" people_item bggr f_left mar10 wid">
                 <a href="about_employee.php" class="d_block wrapper">
                   <div class="people_item-img f_left">
