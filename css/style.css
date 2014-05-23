@@ -262,7 +262,18 @@ h2,h3,h4{
 
 /*================================>> hovers <<========================================*/
 
-
+a{
+    -webkit-transition: all 0.7s ease;
+    -moz-transition: all 0.7s ease;
+    -o-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+}
+a:hover{
+    -webkit-transition: all 0.1s ease;
+    -moz-transition: all 0.1s ease;
+    -o-transition: all 0.1s ease;
+    transition: all 0.1s ease;
+}
 
 
 /*================================>> Contact Form <<========================================*/

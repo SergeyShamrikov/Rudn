@@ -12,9 +12,10 @@
 /* FlexSlider Default Theme
 *********************************/
 .flexslider {margin: 0 0 21px; position: relative; height: 412px;}
-.flex-viewport {}
+.flex-viewport {z-index: 1;}
+
 .loading .flex-viewport {max-height: 300px;}
-.flexslider .slides {zoom: 1;}
+.flexslider .slides {zoom: 1;z-index: 2;}
 
 /* Direction Nav */
 .flex-direction-nav a {width: 30px; height: 30px; margin: 0px 0 0; display: block;  position: absolute; top: 50%; cursor: pointer; text-indent: -9999px;}
@@ -50,16 +51,19 @@
 	 -moz-border-radius: 100%;
 	 border-radius: 100%; 
 	display: block;
-	position: relative;
-	z-index: 9999999;
 	border: 2px solid #2db4ce;
 	background-color: #2db4ce;
-	text-indent: 9999px;}
-.flex-control-paging li a:hover, .flex-control-paging li a.flex-active{background: none;}
+}
+.flex-control-paging a:hover{
+	background-color: none;
+}
+.flex-control-paging li a.flex-active{background: transparent;}
 
 .flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
 .flex-control-thumbs li {width: 25%; float: left; margin: 0;}
 .flex-control-thumbs img {width: 100%; display: block; cursor: pointer;}
 .flex-control-thumbs img:hover {opacity: 1;}
 .flex-control-thumbs .active {opacity: 1; cursor: default;}
-}
+
+
+.flex-viewport{position: relative;z-index: 2;}
