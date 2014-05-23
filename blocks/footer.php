@@ -30,7 +30,7 @@
               <a href="#">FUND RUDN <br><span class="endowment">ENDOWMENT</span></a>
             </li>
             <li class="footer_list_bottom_item f_left">
-            <ul class="social_icon_menu2">
+            <ul class="social_icon_menu2 clearfix">
               <li class="social_icon_menu_item2">
                 <a href="#"><img src="images/img_you_tube2.png" alt=""></a>
               </li>

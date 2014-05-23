@@ -431,13 +431,20 @@ footer {
  
 }
 .social_icon_menu_item2 a{
-  opacity: 0.5;
+  display: block;
+
 }
 .social_icon_menu_item2:first-child{
   margin-left: 0; 
 }
 .social_icon_menu_item2 a:hover{
-  opacity: 1.0;
+ /* opacity: 1.0;*/
+  -moz-transform: translateY(-10px);
+  -webkit-transform: translateY(-10px);
+  -o-transform: translateY(-10px);
+  -ms-transform: translateY(-10px);
+  transform: translateY(-10px);
+ 
 }
 .footer_text{
   color: #536471;

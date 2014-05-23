@@ -142,8 +142,8 @@
 	width: 359px;
 	padding: 26px 47px 0 43px;
 }
-.social_icon4-item{margin-left: 6px;}
-.social_icon4-item:first-child{margin-left: 81px;}
+.dummy .social_icon_menu_item2{margin-left: 6px;}
+.dummy .social_icon_menu2{margin-left: 80px;}
 .header_bottom {padding-bottom: 11px;}
 .dummy>header>nav{background: #3ab2cc;}
 .dummy .header_text1 {
