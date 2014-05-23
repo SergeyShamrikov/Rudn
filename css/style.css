@@ -2,6 +2,7 @@
 @import "../css/superfish.css";
 @import "../css/flexslider.css";
 @import "../css/owl.carousel.css";
+@import "../css/jquery.formstyler.css";
 @import "../css/sergey.css";
 @import "../css/alexandr.css";
 @import "../css/sveta.css";
@@ -122,6 +123,8 @@ h1.logo a{
   padding-left:40px;
   margin-left: 17px;
   font-size: 12px;
+  color: #536471;
+  font-weight: 600;
 }
 .search{
   height: 30px;
@@ -182,15 +185,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#56bdd3', end
 }
 
 
-/*.arrow_menu{
-  display: block;
-  width: 5px;
-  height: 3px;
-  float: right;
-  margin-top: -10px;
-  padding-left: 7px; 
-  background:url(../images/img_arrow_menu.png) 100% 0 no-repeat;
-}*/
+
 .social_icon_menu{
   float: right;
   margin-right: 13px;
@@ -219,15 +214,6 @@ p {margin-bottom:18px}
 .p4{ margin-bottom:0;}
 .p5{ margin-bottom:0;}
 .p6{ margin-bottom:0;}
-.p1{margin-bottom: }
-.p2{ margin-bottom}
-.p3{ margin-bottom:}
-.p4{ margin-bottom:}
-.p5{ margin-bottom:}
-.p6{ margin-bottom:}
-
-
-
 /*=====================> Lists ========================*/
 .list1{}
 .list1_item{
@@ -275,18 +261,7 @@ h2,h3,h4{
 
 
 /*================================>> hovers <<========================================*/
-a{
-    -webkit-transition: all 0.7s ease;
-    -moz-transition: all 0.7s ease;
-    -o-transition: all 0.7s ease;
-    transition: all 0.7s ease;
-}
-a:hover{
-    -webkit-transition: all 0.1s ease;
-    -moz-transition: all 0.1s ease;
-    -o-transition: all 0.1s ease;
-    transition: all 0.1s ease;
-}
+
 
 
 
@@ -427,7 +402,8 @@ footer {
 .footer_menu_item a{
   display: block;
   color: #3e3e3e;
-  padding: 15px;
+  padding: 15px 13px 15px 13px;
+  font-family: 'museo_sans_cyrl900';
 }
 .footer_menu_item:hover a{
   color: #4eb5cb;
@@ -456,13 +432,18 @@ footer {
  
 }
 .social_icon_menu_item2 a{
-  opacity: 0.5;
+  display: block;
+
 }
 .social_icon_menu_item2:first-child{
   margin-left: 0; 
 }
-.social_icon_menu_item2 a:hover{
-  opacity: 1.0;
+.social_icon_menu_item2:hover .soc{
+  -moz-transform: translateY(-5px);
+  -webkit-transform: translateY(-5px);
+  -o-transform: translateY(-5px);
+  -ms-transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 .footer_text{
   color: #536471;

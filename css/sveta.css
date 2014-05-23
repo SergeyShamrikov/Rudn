@@ -28,6 +28,7 @@
 	font-size: 16px;
 	line-height: 22px;
 	color: #5d6d79;
+	margin-bottom: 20px;
 }
 .title3{
 	color: #536471;
@@ -52,7 +53,21 @@
 .mb5{ margin-bottom:13px;}
 .mb6{ margin-bottom:35px;}
 .employee_left .details{
+
 	background: #38b8d1 url(../images/details_after.png) 20% center no-repeat;
+
+	padding: 7px 22px 7px 10px;
+}
+.employee_left .details:before{
+	position: relative;
+	left:-10px;
+	-moz-transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	transform: rotate(180deg);
+	
+>>>>>>> 4d9705693549cf7c81178ae0fede52da1c42c828
 }
 
 .employee_left .details:after{

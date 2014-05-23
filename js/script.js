@@ -53,6 +53,7 @@ $(window).load(function() {
   $('.flexslider').flexslider({
     animation: "slide"
   });
+  $('select').styler();
   var owl = $("#owl_carousel");
  
   owl.owlCarousel({

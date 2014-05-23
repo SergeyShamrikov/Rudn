@@ -22,21 +22,22 @@
           <input type="text" name="search" value="Что будем искать?" onblur="if(this.value=='') this.value='Что будем искать?'" onfocus="if(this.value =='Что будем искать?' ) this.value=''"><button></button>
           </form>
         </div>
+        
         <div class="header_text_right f_left">
-          <ul class="social_icon4 wrapper">
-            <li class="social_icon4-item f_left">
-              <a href="#"><img src="images/img_you_tube2.png" alt=""></a>
-            </li>
-            <li class="social_icon4-item f_left">
-              <a href="#"><img src="images/img_facebook2.png" alt=""></a>
-            </li>
-            <li class="social_icon4-item f_left">
-              <a href="#"><img src="images/img_vk2.png" alt=""></a>
-            </li>
-            <li class="social_icon4-item f_left">
-              <a href="#"><img src="images/img_twitter2.png" alt=""></a>
-            </li>
-          </ul>
+          <ul class="social_icon_menu2 clearfix">
+              <li class="social_icon_menu_item2">
+                <a class="soc" href="#"><img src="images/img_you_tube2.png" alt=""></a>
+              </li>
+              <li class="social_icon_menu_item2">
+                <a class="soc" href="#"><img src="images/img_facebook2.png" alt=""></a>
+              </li>
+              <li class="social_icon_menu_item2">
+                <a class="soc" href="#"><img src="images/img_vk2.png" alt=""></a>
+              </li>
+              <li class="social_icon_menu_item2">
+                <a class="soc" href="#"><img src="images/img_twitter2.png" alt=""></a>
+              </li>
+            </ul>
         </div>  
       </div>
   <nav>

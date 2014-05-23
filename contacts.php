@@ -24,7 +24,7 @@
               <li class="contact_list_item">
                 Сайт Ассоциации:
               </li>
-              <li class="contact_list_item">
+              <li class="contact_list_item fontw">
                 <a href="#">alumnirudn.ru</a>
               </li>
               <li class="contact_list_item">
@@ -37,7 +37,7 @@
               <li class="contact_list_item">
                 Единый E-mail для общих вопросов:
               </li>
-              <li class="contact_list_item">
+              <li class="contact_list_item fontw">
                 <a href="#">alumni@rudn.ru</a>
               </li>
               <li class="contact_list_item">
@@ -56,21 +56,21 @@
           </div>
         </div>
         <div class="contact_bottom wrapper">
-          <h6 class="contact_bottom_title">Ассоциация выпускников и друзей РУДН (АВИД)</h6>
+          <h6 class="contact_bottom_title fontw">Ассоциация выпускников и друзей РУДН (АВИД)</h6>
           <p class="contact_bottom_text">Решением Ученого Совета РУДН от 20.02.2006, протокол №46, было сочтено целесообразным приостановить деятельность Ассоциации друзей РУДН в связи с неопределенностью её правового статуса, возникшей после внесенных изменений в российское законодательство, и была учреждена “Ассоциация выпускников и друзей РУДН” (далее по тексту – АВИД). Учреждено общественное объединение «Ассоциация выпускников и друзей РУДН». Оно является добровольным, самоуправляемым общественным объединением без регистрации юридического лица, созданным по инициативе выпускников Российского университета дружбы народов, объединившихся на основе общности интересов для реализации общих целей.
           </p>
           <div class="contact_bottom_left f_left">
-            <h6 class="contact_bottom_left_title">Президент АВИД:</h6>
+            <h6 class="contact_bottom_left_title fontw">Президент АВИД:</h6>
             <p class="contact_bottom_text">Ректор РУДН, профессор<br>
             ФИЛИППОВ Владимир Михайлович<br>
             e-mail: rector@rudn.ru</p>
-            <h6 class="contact_bottom_left_title2">Вице-Президенты АВИД:</h6>
+            <h6 class="contact_bottom_left_title2 fontw">Вице-Президенты АВИД:</h6>
             <p class="contact_bottom_text">Советник ректора по международной деятельности<br>
             БИЛИБИН Дмитрий Петрович<br>
             e-mail: bilibin@mx.rudn.ru</p>
           </div>
           <div class="contact_bottom_right f_left">
-            <h6 class="contact_bottom_left_title3">Начальник Управления по работе с выпускниками</h6>
+            <h6 class="contact_bottom_left_title3 fontw">Начальник Управления по работе с выпускниками</h6>
             <p class="contact_bottom_text">ЧЕТИЙ Владимир Владиславович<br>
             e-mail: alumni@rudn.ru <br>
             Контактный телефон +7 (495) 434-43-12 вн. 2111 <br>  

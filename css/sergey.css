@@ -15,11 +15,10 @@
 .details{
 	display: block;
 	font-size: 14px;
-	line-height: 18px;
+	line-height: 14px;
 	color: #fff;
-	padding: 7px 32px 3px 16px;
+	padding: 7px 32px 7px 16px;
 	background-color: #38b8d1;
-
 	background: #38b8d1 url(../images/details_after.png) 90% center no-repeat;
 	border: none;
 	outline: none;

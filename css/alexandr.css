@@ -101,7 +101,7 @@
 	text-align: center;
 }
 .patrons_box{padding:0 15px 38px 20px;}
-.endowment_word{
+/*.endowment_word{
 	font-size:33px;
 	color: #ffffff;
 	display: block;
@@ -109,7 +109,7 @@
 	left: 0;
 	right: 0;
 	bottom: 60px;
-}
+}*/
 /*===================================Dummy====================================*/
 .padb14{margin-bottom: 11px;}
 .dammy_img-main{height: 320px;overflow: hidden;}
@@ -142,11 +142,11 @@
 	width: 359px;
 	padding: 26px 47px 0 43px;
 }
-.social_icon4-item{margin-left: 6px;}
-.social_icon4-item:first-child{margin-left: 81px;}
+.dummy .social_icon_menu_item2{margin-left: 6px;}
+.dummy .social_icon_menu2{margin-left: 80px;}
 .header_bottom {padding-bottom: 11px;}
 .dummy>header>nav{background: #3ab2cc;}
-.header_text1 {
+.dummy .header_text1 {
 	padding-left: 40px;
 	margin-left: 18px !important;
 }
@@ -228,3 +228,4 @@ padding-top: 75px;
 }
 .scroll-pane{height: 500px;}
 .scrol_box{padding-right: 54px;padding-bottom: 50px;}
+.fontw{font-weight: 600;}

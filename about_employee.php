@@ -23,8 +23,8 @@
                </figcaption>
             </figure>
             <span class="employee_text_type1 d_block mb4">Ректор РУДН. Доктор<br> физико-математических наук, профессор.</span>
-            <span class="employee_text_type2 d_block mb5">Министр образования РФ с 1998 по 2004 год. Академик Российской академии образования.</span>
-            <span class="employee_text_type2 d_block mb6">Выпускник факультета <br> физико-математических и естественных наук 1973 года.</span>
+            <span class="employee_text_type2 d_block mb5 fontw">Министр образования РФ с 1998 по 2004 год. Академик Российской академии образования.</span>
+            <span class="employee_text_type2 d_block mb6 fontw">Выпускник факультета <br> физико-математических и естественных наук 1973 года.</span>
             <a href="#javascript:;" class="d_in-block details">Вернуться</a>
              
             

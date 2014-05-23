@@ -32,27 +32,30 @@
 	margin-left: -500px; 
 	position: absolute; 
 	bottom: 18px; 
+	z-index: 99999999999;
 	text-align: right;
 	padding-right: 40px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.flex-control-nav li {margin: 0 3px; display: inline-block; zoom: 1; *display: inline;}
+.flex-control-nav li {
+	margin: 0 3px;
+	display: inline-block;
+}
 .flex-control-paging li a {
-	width: 14px; 
-	height: 14px;
+	width: 10px; 
+	height: 10px;
 	-webkit-border-radius: 100%;
 	 -moz-border-radius: 100%;
 	 border-radius: 100%; 
 	display: block;
+	position: relative;
+	z-index: 9999999;
 	border: 2px solid #2db4ce;
 	background-color: #2db4ce;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
 	text-indent: 9999px;}
-.flex-control-paging li a:hover, .flex-control-paging li a.flex-active{background-color: transparent;}
+.flex-control-paging li a:hover, .flex-control-paging li a.flex-active{background: none;}
 
 .flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
 .flex-control-thumbs li {width: 25%; float: left; margin: 0;}
