@@ -32,16 +32,16 @@
             <li class="footer_list_bottom_item f_left">
             <ul class="social_icon_menu2 clearfix">
               <li class="social_icon_menu_item2">
-                <a href="#"><img src="images/img_you_tube2.png" alt=""></a>
+                <a class="soc" href="#"><img src="images/img_you_tube2.png" alt=""></a>
               </li>
               <li class="social_icon_menu_item2">
-                <a href="#"><img src="images/img_facebook2.png" alt=""></a>
+                <a class="soc" href="#"><img src="images/img_facebook2.png" alt=""></a>
               </li>
               <li class="social_icon_menu_item2">
-                <a href="#"><img src="images/img_vk2.png" alt=""></a>
+                <a class="soc" href="#"><img src="images/img_vk2.png" alt=""></a>
               </li>
               <li class="social_icon_menu_item2">
-                <a href="#"><img src="images/img_twitter2.png" alt=""></a>
+                <a class="soc" href="#"><img src="images/img_twitter2.png" alt=""></a>
               </li>
             </ul>
             </li>
