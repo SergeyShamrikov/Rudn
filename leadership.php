@@ -14,7 +14,7 @@
     <?php include("components/make_donation.php") ?>
     <?php include("components/menu_content.php") ?>
     <section class="leadership_box">
-      <h2 class="title2 museo_font900 p_rel z_ind2">Руководство</h2>
+      <h2 class="title2 museo_font900 p_rel z_ind2 leadership_box_title">Руководство</h2>
       <div class="clearfix leadership_list">
         <div class="leadership_it">
           <div class="leadership_cont maxheight p_rel">
