@@ -26,14 +26,6 @@
 .details:hover{
 	background-color: #7cdbee;
 }
-.employee_left .details:before{
-	content: "";
-	display: inline-block;
-	width: 8px;
-	height: 15px;
-	margin-left: 11px;
-	background: url(../images/details_after.png) 0 0 no-repeat;
-}
 .flexslider_box{
 	top: 0;
 	left: 0;
