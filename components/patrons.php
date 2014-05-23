@@ -57,10 +57,10 @@
             <div class="developments f_left">
               <ul class="developments_item wrapper">
                 <li class="all-item wrapper">
-                  <span class="date f_left">
+                  <div class="date f_left">
                     <div class="date_number">19</div>
                     <div class="date_months">мая</div>
-                  </span>
+                  </div>
                   <div class="bb17 wrapper">
                     <h4>
                         <a href="">
@@ -73,10 +73,10 @@
                   </div>
                 </li>
                 <li class="all-item wrapper">
-                  <span class="date f_left">
+                  <div class="date f_left">
                     <div class="date_number">23</div>
                     <div class="date_months">мая</div>
-                  </span>
+                  </div>
                   <div class="bb17 wrapper">
                     <h4>
                       <a href="#">
@@ -89,10 +89,10 @@
                   </div>
                 </li>
                 <li class="all-item wrapper">
-                  <span class="date f_left">
+                  <div class="date f_left">
                     <div class="date_number">19</div>
                     <div class="date_months">мая</div>
-                  </span>
+                  </div>
                   <div class="bb17 wrapper">
                     <h4>
                       <a href="">

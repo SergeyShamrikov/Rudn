@@ -56,6 +56,7 @@
 	background: #38b8d1 url(../images/details_before.png) 10% center no-repeat;
 	padding: 7px 22px 7px 25px;
 }
+.employee_left .details:hover{background-color: #7cdbee;}
 
 .report_item{
 	font-size: 14px;

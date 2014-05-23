@@ -59,9 +59,10 @@
 	padding-top: 19px;
 } 
 .date{
+	display: block;
 	overflow: hidden;
 	background-color: #2db4ce;
-	width: 59px;
+	width: 70px;
 	height: 59px;
 	text-align: center;
 	margin-right: 30px;
