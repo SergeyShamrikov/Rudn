@@ -22,6 +22,7 @@
 	font-size: 14px;
 	line-height: 16px;
 	color: #858585;
+	text-align: justify;
 }
 
 .title2{
@@ -74,6 +75,8 @@
 	font-size: 14px;
 	line-height: 22px;
 	color: #808080;
+	text-align: justify;
+	font-style: italic;
 }
 .report_list{
 	padding: 24px 0 32px 31px;

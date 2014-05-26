@@ -161,8 +161,9 @@
 	font-size: 28px;
 	line-height: 35px;
 	color:#536471;
-	padding-left: 5px;
+	padding-left: 20px;
 	padding-bottom: 4px;
+
 }
 .page-item_text{
 	color: #989898;
@@ -201,6 +202,7 @@
 	line-height: 22px;
 	margin: 10px 0 20px;
 }
+.partnership_text{text-align: justify;}
 .partnership_text-item{
 	font-size: 14px;
 	color: #737373;
