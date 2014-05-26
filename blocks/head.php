@@ -1,4 +1,5 @@
     <meta name = "format-detection" content = "telephone=no" />
+    <meta name="viewport" content="width=device-width">
     <meta charset="utf-8">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
