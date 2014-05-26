@@ -11,8 +11,18 @@
 
 /* FlexSlider Default Theme
 *********************************/
-.flexslider {margin: 0 0 21px; position: relative; height: 412px;}
+.flexslider {
+	margin: 0 0 21px;
+	position: relative;
+	height: 412px;
+	background: url(../images/flexslider_img1.png) center center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
 .flex-viewport {z-index: 1;}
+
+.slides_it{
+}
 
 .loading .flex-viewport {max-height: 300px;}
 .flexslider .slides {zoom: 1;z-index: 2;}
