@@ -1,6 +1,4 @@
 
-
-
 // init
 
 $(window).load(function() {
@@ -18,12 +16,9 @@ $(window).load(function() {
         [700, 3],
       ],
       navigation : true
- 
   });
 
  });
 $(function(){
-          jQuery('.scroll-pane').jScrollPane({
-            resiz: true
-          });
-        });
+  $('.scroll-pane').jScrollPane();
+});

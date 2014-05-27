@@ -1,5 +1,5 @@
     <meta name = "format-detection" content = "telephone=no" />
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=1024">
     <meta charset="utf-8">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
@@ -9,12 +9,12 @@
     <script type="text/javascript" src="js/superfish.js"></script>
    <script type="text/javascript" src="js/jquery.flexslider.js"></script>
    <script type="text/javascript" src="js/owl.carousel.js"></script>
-	 <script type="text/javascript" src="js/jquery.equalheights.js"></script>
-	 <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+   <script type="text/javascript" src="js/jquery.equalheights.js"></script>
+   <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
    <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
    <script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script>
    <script type="text/javascript" src="js/jquery.formstyler.min.js"></script>
-	 <script src="js/script.js"></script>
+	 
 	 
 	<!--[if lt IE 8]>
    <div style=' clear: both; text-align:center; position: relative;'>
