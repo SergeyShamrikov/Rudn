@@ -1,0 +1,241 @@
+.news_title{
+	font-size: 16px;
+	font-weight: 900;
+	margin: -12px 0 25px 20px;
+}
+.news_title span{
+	color: #4e7389;
+}
+.news_box1{
+	margin-top: 25px;
+	/*overflow: hidden;
+	padding-right: 140px;*/
+}
+.news_box2{
+	margin: 40px 0;
+}
+	.owl_carousel_it{
+		width: 291px;
+		float: left;
+	}
+	.img_box img{width: 100%;}
+		.img_box_title{
+			display: table;
+			background: rgba(46,114,144,0.7);
+			padding: 0px 14px 0px 11px;
+			bottom: -62px;
+			left: 0;
+			right: 0;
+			height: 62px;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			-webkit-transition: all 0.7s;
+			-moz-transition: all 0.7s;
+			-ms-transition: all 0.7s;
+			-o-transition: all 0.7s;
+			transition: all 0.7s;
+			vertical-align: middle;
+		}
+		.img_box:hover .img_box_title{
+			bottom: 0;
+			-webkit-transition: all 0.2s;
+			-moz-transition: all 0.2s;
+			-ms-transition: all 0.2s;
+			-o-transition: all 0.2s;
+			transition: all 0.2s;
+		}
+		.img_box_title:after{
+			content: "";
+			display: table-cell;
+			width: 18px;
+			height: 33px;
+			background: url(../images/img_box_title_pointer.png) right center no-repeat;
+		}
+			.img_box_title span{
+				font-family: 'museo_sans_cyrl900';
+				font-size: 14px;
+				line-height: 14px;
+				color: #fff;
+				width: 90%;
+				padding-right: 5px;
+				vertical-align: middle;
+				display: table-cell;
+			}
+			.img_descrition{
+				font-size: 13px;
+				line-height: 18px;
+				color: #787878;
+				padding: 8px 16px 0px 11px;
+			}
+			.img_descrition p{
+				margin-bottom: 5px;
+				line-height: 16px;
+			}
+			.img_descrition time{
+				font-size: 12px;
+				line-height: 16px;
+				color: #aaaaaa;
+			}
+	.owl-prev,.owl-next{
+		position: absolute;
+		text-indent: -9999px;
+		display: block;
+		top: 50%;
+		margin-top: -56px;
+		width: 21px;
+		height: 36px;
+		background-image: url(../images/owl-prev.png);
+		background-repeat: no-repeat;
+	}
+	.owl-prev{
+		background-position: 0 center;
+		left: 23px;
+	}
+	.owl-next{
+		background-position: right center;
+		right: 12px;
+	}
+	.owl-buttons div:hover{
+		background-size:420%;
+	}
+.about_fond_box{padding: 0 30px;}
+.text1{
+	text-indent: 35px;
+	font-size: 14px;
+	line-height: 25px;
+	color: #787878;
+	margin-bottom: 0;
+	text-align: justify;
+}
+.filter{
+	padding-bottom: 23px;
+}
+.filter_list{
+	float: right;
+	margin: -12px 15px 0 0;
+}
+.filter_list2{
+	float: right;
+	margin: 0 18px 0 0;
+}
+.filter_it1{
+	margin-left: 0px;
+}
+.filter_lk {
+	display: block;
+	line-height: 21px;
+	font-size: 12px;
+	color: #000;
+	background: #cecece;
+	border-radius: 35px;
+	width: 22px;
+}
+.activ .filter_lk {
+	background: #98ceda;
+}
+.filter_lk:hover{
+	background: #98ceda;
+}
+.filter_lk_arrow img{
+	margin-top: 3px;
+	width: 8px;
+}
+[class*="filter_it"] {
+	float: left;
+	text-align: center;
+	margin-left: 5px;
+}	
+
+
+/*news_1*/
+.news1_title{
+	font-size: 16px;
+	font-weight: 900;
+	margin: -12px 0 20px 20px;
+}
+.news1_title span{
+	color: #4e7389;
+}
+.news1_title a{
+	color: #5d6d79;
+}
+.one_news_top img{
+	border: 1px solid #e5e5e5;
+	padding: 6px;
+	margin: 0 0 0 20px;
+	float: left;
+}
+.one_news_top_title{
+	font-size: 16px;
+	color: #4e7389;
+	font-weight: 900;
+	margin: 10px 0 5px 417px;
+}
+.one_news_top_text{
+	font-size: 13px;
+	color: #787878;
+	float: left;
+	margin: 15px 0 0 17px;
+	line-height: 22px;
+}
+.news_share{
+	float:right;
+	width: 555px;
+	border-top: 1px solid #e1e1e1;
+	margin-right: 20px; 
+}
+.news_social_icons{
+	float: right;
+}
+.news_social_icons_item{
+	float: left;
+	margin: 9px 0 0 5px;
+}
+.news_social_icons_item:first-child{
+	padding-top: 15px;
+	margin: 0 12px 0 0;
+	color: #000;
+}
+.news_social_icons_item:hover a{
+	opacity: 0.5;
+}
+.one_news_bottom_text{
+	margin-top: 10px;
+	float: left;
+	width: 1024px;
+	font-size: 13px;
+	color: #787878;
+	line-height: 20px;	
+	padding-left: 21px;
+}
+.one_news_bottom_title{
+	font-size: 16px;
+	color: #4e7389;
+	font-weight: 900;
+	margin:  10px 0 20px 20px;
+}
+/*developments*/
+.developments2{
+  margin-left: 20px;
+}
+.developments2_title{
+  font-size: 16px;
+  font-weight: 900;
+  color: #5d6d79;
+  margin: -15px 0 40px 20px;
+}
+.w_100{
+  width: 865px;
+}
+/*developments2*/
+.developments2_title span{
+	color: #3b9db3;
+}
+.developments2_share{
+	margin-top: -15px;
+}
+.developments2 p{
+	font-size: 14px;
+	line-height: 22px;
+}
