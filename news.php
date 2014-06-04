@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
+=======
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
 <html lang="en">
 <head>
     <title>Новости</title>
@@ -23,7 +26,11 @@
   <div class="main">
     <?php include("components/make_donation.php") ?>
     <section class="news_box">
+<<<<<<< HEAD
    	<div class="clearfix">
+=======
+   	<div class="main">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
    		<h2 class="news_title f_left">Новости</h2>
       <div class="filter">
         <ul class="filter_list wrapper">
@@ -47,7 +54,11 @@
    	</div>
    	<div class="box_news">
    		<div class="news_box1 wrapper">
+<<<<<<< HEAD
    			<div class="owl_carousel_it_2">
+=======
+   			<div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
    					<figure class="p_rel img_box wrapper">
    						<a href="#" class="d_block">
    							<img src="images/carousel_img1.jpg" alt="">
@@ -61,7 +72,11 @@
    						<time>08.05.2014</time>
    					</figcaption>
    				</div>
+<<<<<<< HEAD
           <div class="owl_carousel_it_2">
+=======
+          <div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
    					<figure class="p_rel img_box wrapper">
    						<a href="#" class="d_block">
    							<img src="images/carousel_img2.jpg" alt="">
@@ -75,7 +90,11 @@
    						<time>08.05.2014</time>
    					</figcaption>
    				</div>
+<<<<<<< HEAD
           <div class="owl_carousel_it_2">
+=======
+          <div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
    					<figure class="p_rel img_box wrapper">
    						<a href="#" class="d_block">
    							<img src="images/carousel_img3.jpg" alt="">
@@ -91,7 +110,11 @@
    				</div>
    		 </div>
       <div class="news_box2 wrapper">
+<<<<<<< HEAD
         <div class="owl_carousel_it_2">
+=======
+        <div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
             <figure class="p_rel img_box wrapper">
               <a href="#" class="d_block">
                 <img src="images/carousel_img1.jpg" alt="">
@@ -105,7 +128,11 @@
               <time>08.05.2014</time>
             </figcaption>
           </div>
+<<<<<<< HEAD
           <div class="owl_carousel_it_2">
+=======
+          <div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
             <figure class="p_rel img_box wrapper">
               <a href="#" class="d_block">
                 <img src="images/carousel_img2.jpg" alt="">
@@ -119,7 +146,11 @@
               <time>08.05.2014</time>
             </figcaption>
           </div>
+<<<<<<< HEAD
           <div class="owl_carousel_it_2">
+=======
+          <div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
             <figure class="p_rel img_box wrapper">
               <a href="#" class="d_block">
                 <img src="images/carousel_img3.jpg" alt="">
@@ -135,7 +166,11 @@
         </div>
        </div>
       <div class="news_box3 wrapper">
+<<<<<<< HEAD
         <div class="owl_carousel_it_2">
+=======
+        <div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
             <figure class="p_rel img_box wrapper">
               <a href="#" class="d_block">
                 <img src="images/carousel_img1.jpg" alt="">
@@ -149,7 +184,11 @@
               <time>08.05.2014</time>
             </figcaption>
           </div>
+<<<<<<< HEAD
           <div class="owl_carousel_it_2">
+=======
+          <div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
             <figure class="p_rel img_box wrapper">
               <a href="#" class="d_block">
                 <img src="images/carousel_img2.jpg" alt="">
@@ -163,7 +202,11 @@
               <time>08.05.2014</time>
             </figcaption>
           </div>
+<<<<<<< HEAD
           <div class="owl_carousel_it_2">
+=======
+          <div class="owl_carousel_it">
+>>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
             <figure class="p_rel img_box wrapper">
               <a href="#" class="d_block">
                 <img src="images/carousel_img3.jpg" alt="">
