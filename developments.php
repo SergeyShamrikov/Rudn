@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
-=======
->>>>>>> 0f6ec655d6b0963e9a981714890e10ffb106b06b
 <html lang="en">
 <head>
     <title>События</title>
